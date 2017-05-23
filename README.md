@@ -1,4 +1,4 @@
-#### vue demo
+#### vue demo :panda_face:
 
 #### v1.0.0是一个基础的demo
 * 数据
@@ -18,4 +18,7 @@
 
 参考:
 
-[vuex爬坑](http://www.cnblogs.com/wisewrong/p/6344390.html)
+* [vuex爬坑](http://www.cnblogs.com/wisewrong/p/6344390.html)
+* [参考](http://www.jb51.net/article/110212.htm) 
+* [参考](http://www.cnblogs.com/huansky/p/6517237.html)
+* [参考](https://zhuanlan.zhihu.com/p/25042521)
