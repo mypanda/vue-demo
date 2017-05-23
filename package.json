@@ -1,11 +1,11 @@
 {
   "name": "vue",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "description": "",
   "main": "main.js",
   "scripts": {
     "dev": "webpack-dev-server --inline --hot --port 8082",
-    "build":"webpack -p"
+    "build": "webpack -p"
   },
   "keywords": [],
   "author": "",
@@ -22,6 +22,7 @@
     "vue-loader": "^8.5.4",
     "vue-router": "^0.7.13",
     "vue-style-loader": "^1.0.0",
+    "vuex": "^2.3.1",
     "webpack": "^1.13.2",
     "webpack-dev-server": "^1.16.2"
   },
