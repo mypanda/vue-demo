@@ -16,6 +16,7 @@
 * 兄弟组件改变store数据，另一个组件响应数据
 * 官方推荐的修改store的方法
 
+### event bus [link](http://runjs.cn/code/k0nfythj)
 参考:
 
 * [vuex爬坑](http://www.cnblogs.com/wisewrong/p/6344390.html)
